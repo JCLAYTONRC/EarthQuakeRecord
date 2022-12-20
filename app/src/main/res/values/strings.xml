@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EarthQuakeRecord</string>
+    <string name="hint_user">Usuario</string>
+    <string name="text_default_intro">Favor de crear su usuario y contraseña</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_password_conf">Confirmar Contraseña</string>
+    <string name="button_created_user">Crear Usuario</string>
+</resources>
